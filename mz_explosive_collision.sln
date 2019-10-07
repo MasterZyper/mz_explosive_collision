@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mz_explosive_collision", "mz_explosive_collison\mz_explosive_collision.csproj", "{35005F64-8DCB-4BFE-A785-5006A6B0E95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35005F64-8DCB-4BFE-A785-5006A6B0E95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35005F64-8DCB-4BFE-A785-5006A6B0E95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35005F64-8DCB-4BFE-A785-5006A6B0E95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35005F64-8DCB-4BFE-A785-5006A6B0E95F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5732B0-595C-40FD-A186-4A22F74827AD}
+	EndGlobalSection
+EndGlobal
