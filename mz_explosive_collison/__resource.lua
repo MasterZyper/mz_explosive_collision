@@ -1,5 +1,5 @@
 --[[
-Lets explode Vehicles when they hit anything
+Let´s explode Vehicles when they hit something
 
 Copyright (C) 27.08.2019  MasterZyper 🐦
 Contact: masterzyper@reloaded-server.de
