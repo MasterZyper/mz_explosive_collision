@@ -5,7 +5,6 @@ namespace mz_explosive_collison
 {
     public class Main : BaseScript
     {
-        private bool fly = false;
         public Main() 
         {
             Tick += CheckVehHasCollided;  
